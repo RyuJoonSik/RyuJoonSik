@@ -8,7 +8,7 @@
 ## 🛠 Tools: 좋아하는 도구들이에요
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/> <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/> <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/> <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/>
 
-## 📚︎ Books: 흥미롭게 본 책들은 정리해 보고 있어요
+## 📚︎ Books: 관심 있는 주제는 책으로 읽어보고 내용을 정리해 봐요
 + [혼자 공부하는 C 언어](https://plume-seeker-8c8.notion.site/C-63ae09c3d6f14c43833cfc1b63065e65)
 + [C++ 트레이닝](https://plume-seeker-8c8.notion.site/C-4416f476e7024ff383fba7e6e152e07b)
 + [혼자 공부하는 자바](https://plume-seeker-8c8.notion.site/JAVA-5bcd096a3d2f417e80405791a43d0a0a)
