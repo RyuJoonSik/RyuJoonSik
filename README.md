@@ -21,5 +21,5 @@
 + [개발자를 위한 글쓰기 가이드](https://plume-seeker-8c8.notion.site/92287c5017b24cbcaad5929ef84efd1c)
 + [Do it! 반응형 웹 페이지 만들기](https://plume-seeker-8c8.notion.site/d1bc7293acfb4168b2f227bc2f71aacf)
 + [자바 객체지향 디자인 패턴](https://plume-seeker-8c8.notion.site/a2e40bb2ce064de68db822018c90bd72)
-+ [Do it! HTML+CSS+자바스크립트 웹 표준의 정석](https://plume-seeker-8c8.notion.site/HTML5-CSS3-e480f52efe1649fdb9d31b2af3d30e1a)(진행 중)
++ [Do it! HTML+CSS+자바스크립트 웹 표준의 정석](https://plume-seeker-8c8.notion.site/HTML5-CSS3-e480f52efe1649fdb9d31b2af3d30e1a)
 + [모던 자바스크립트 Deep Dive](https://plume-seeker-8c8.notion.site/JavaScript-1793c2809c4841928a9df159e91e23c7)
